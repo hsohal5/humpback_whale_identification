@@ -1,6 +1,6 @@
-## Humpback whale Identificcation
+# Humpback whale Identificcation
 
-#Abstract
+## Abstract
 
 This report describes about the current work done on whale photo surveillance system. 
 We are developing a deep learning model using convolutional neural network to be used to identify the type of humpback whale. 
